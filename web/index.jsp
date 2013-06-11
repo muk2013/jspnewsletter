@@ -10,7 +10,7 @@
     </head>
     <body>
         <header>
-            <h1>Newsletter bestellen</h1></header>
+            <h1>Newsletter jetzt bestellen</h1></header>
         <article>
             <form method="get">
                 <label for="vorname">Vorname <sup>*</sup></label>
