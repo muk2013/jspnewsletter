@@ -11,7 +11,7 @@
     </head>
     <body>
         <header>
-            <h1>Ooops, was ist da los?</h1></header>
+            <h1>Ooops, was ist da los???</h1></header>
         <article>
             <p class="centerit">
             Ein Fehler ist aufgetreten.
